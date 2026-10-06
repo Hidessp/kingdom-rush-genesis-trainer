@@ -1,0 +1,8 @@
+*.exe
+*.dll
+*.zip
+__pycache__/
+trainer-data/
+.kr6-trainer-backup/
+.codex-backups/
+dist/
